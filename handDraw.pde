@@ -47,7 +47,7 @@ public class handDraw {
         this.init = false;
       }
 
-      stroke(hand_position.z > 45?0:255);
+      stroke(0);
       strokeWeight(abs(hand_position.z - old_position.z));
 
       curve (

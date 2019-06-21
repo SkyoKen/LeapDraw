@@ -1,7 +1,7 @@
 import de.voidplus.leapmotion.*;
 
 
-color bg = 125; 
+color bg = 255; 
 LeapMotion leap;
 handDraw hd;
 
